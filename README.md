@@ -1,6 +1,3 @@
-Absolutely — here’s a ready-to-drop-in `README.md` file for your repo.
-You can copy-paste this directly into a `README.md` file in your repo root.
-
 ---
 # LinkedIn Scraper
 
