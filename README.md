@@ -80,8 +80,7 @@ Use this code ethically and for educational purposes only. For production or lar
 This project is released under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 
-✅ **How to use:**  
+**How to use:**  
 1. Create a file named README.md in the root of your repo (if you don’t already have one).  
 2. Paste this entire block in.  
 3. Commit & push — GitHub will automatically render it nicely on your repo front page.  
-```
