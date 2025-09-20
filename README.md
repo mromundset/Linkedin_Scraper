@@ -8,14 +8,14 @@ A lightweight Python tool for extracting basic information from LinkedIn profile
 Designed for educational and personal projects to explore profile data programmatically.
 
 
-## 🔍 Purpose
+## Purpose
 
 This project demonstrates how to collect and structure profile information from LinkedIn.  
 Use it for learning, data analysis, or small-scale research — always responsibly and within LinkedIn’s Terms of Service.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Language:** Python 3
 - **Dependencies:** See `requirements.txt`
@@ -49,7 +49,7 @@ Use it for learning, data analysis, or small-scale research — always responsib
 5. **View results**
    Output is typically stored in CSV or printed to console (depending on how you configure `scarper.py`).
 
-## 📂 Project Structure
+## Project Structure
 
 | File / Folder      | Description                             |
 | ------------------ | --------------------------------------- |
@@ -59,14 +59,14 @@ Use it for learning, data analysis, or small-scale research — always responsib
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 Scraping LinkedIn data may violate LinkedIn’s [Terms of Service](https://www.linkedin.com/legal/user-agreement).
 Use this code ethically and for educational purposes only. For production or large-scale usage, consider using LinkedIn’s official APIs.
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 * Command-line arguments for easier input control
 * Output to JSON or database backends
@@ -75,7 +75,7 @@ Use this code ethically and for educational purposes only. For production or lar
 
 ---
 
-## 📄 License
+## License
 
 This project is released under the **MIT License**. See [LICENSE](LICENSE) for details.
 
