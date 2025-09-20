@@ -23,7 +23,7 @@ Use it for learning, data analysis, or small-scale research — always responsib
 
 ---
 
-## ⚙️ Installation & Usage
+## Installation & Usage
 
 1. **Clone this repository**
    bash
